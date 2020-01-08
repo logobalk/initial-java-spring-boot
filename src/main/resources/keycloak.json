@@ -1,0 +1,21 @@
+{
+  "realm": "siam-security",
+  "auth-server-url": "http://10.1.99.28:8080/auth",
+  "ssl-required": "external",
+  "resource": "<APP_CLIENT_NAME>",
+  "credentials": {
+    "secret": "<APP_CLIENT_SECRET>"
+  },
+  "confidential-port": 0,
+  "use-resource-role-mappings": false,
+  "policy-enforcer": {
+    "paths": [
+      {
+        "enforcement-mode": "DISABLED",
+        "path": "/**",
+        "name": "static-files"
+      }
+    ]
+  },
+  "bearer-only": true
+}

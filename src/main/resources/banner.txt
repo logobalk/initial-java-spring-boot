@@ -1,0 +1,30 @@
+${AnsiColor.RED}hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+${AnsiColor.RED}hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhy:hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+${AnsiColor.RED}hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhs` .yhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+${AnsiColor.RED}hhhhhhhhhhhhhhhhhhhhhhhhhhhhh+    `shhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+${AnsiColor.RED}hhhhhhhhhhhhhhhhhhhhhhhhhhhy-       /yhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+${AnsiColor.RED}hhhhhhhhhhhhhhhhhhhhhhhhhy/    -+.   `+hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+${AnsiColor.RED}hhhhhhhhhhhhhhhhhhhhhhhy/`  `/yhhhs:`  .+hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+${AnsiColor.RED}hhhhhhhhhhhhhhhhhhhhho-  `:shhhhhhhhho:` `:shhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+${AnsiColor.RED}hhhhhhhs+hhhhhhhhy+-` ./shhhh+-```./yhhho:` `:oyhhhhhhhy+yhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+${AnsiColor.RED}hhhhhhhy`/hhys+:` ./oyhhhhhh:       .hhhhhhy+:. .:+syhh-.hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+${AnsiColor.RED}hhhhhhh- ..`.-/+shhhhhhhhhhhy:`   `-ohhhhhhhhhhys+:-``.` +hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+${AnsiColor.RED}hhhhhhhyyyyhhhhhhhhhhhhhhhhhhhhhyyhhhhhhhhhhhhhyyhhhhhyyyyhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+${AnsiColor.RED}hhhhhhhho/-.````.-/++/.``:h/````````/hhhy+:.`      `.-+yhhhh.````````+/.`   `./y+-.   `.:shhhhhhhhhh
+${AnsiColor.RED}hhhhhho`                 -hhs       :hhy`      :/-      ohhhh+       .::       `::`      `hhhhhhhhhh
+${AnsiColor.RED}hhhhhs        .oyhhy+`   -hhh`      :hhy.    -shy/      :hhhhs       ohh.      -hh/      `hhhhhhhhhh
+${AnsiColor.RED}hhhhh/        .yhhhhhy.``-hhh`      :hhhho:--.`         :hhhhs       ohh.      -hh/      `hhhhhhhhhh
+${AnsiColor.RED}hhhhhs          -/oyhhhhhhhhh`      :hhy.     `:+s`     :hhhhs       ohh.      -hh/      `hhhhhhhhhh
+${AnsiColor.RED}hhhhhho.            `-+yhhhhh`      :hh/      `/:.      -hhhhs       ohh.      -hh/       hhhhhhhhhh
+${AnsiColor.RED}hhhhhhhhs/-`            /hh+`        .sy-       `.:.     `-h-         -h.       .h/       .hhhhhhhhh
+${AnsiColor.RED}hhhhhhhhhhhhys+-         /hyyyyyyyyyyyhhhhsooosyhhhhhyssssyhyyyyyyyyyyyhyyyyyyyyyhyyyyyyyyyhhhhhhhhh
+${AnsiColor.RED}hhhhh/```ohhhhhh-        -ho///////////////////////////////////////////////////////////////yhhhhhhhh
+${AnsiColor.RED}hhhhh/    .:///-         +h/:/:sh:yyhhhyyhhyhhhyyyyyhhhyyhhhyhhhhyhhhyhyhh/yhoshhyyhhhyyhh:yhhhhhhhh
+${AnsiColor.RED}hhhhh/                 `+hh../.oh /`sh:-`sh.:ys + +`sh:-`yy`+/yo`-`ys`h ys`+h-/h-:+sh:- sh`shhhhhhho
+${AnsiColor.RED}hhhhh+...+yyso/:-...-/ohhhh:+hhhh.y:sh-/-sh-shs-y-y-yy-/-yh://ys://hy./.yh-+h/+h/:/sy-+-sh-shhhhhhh.
+${AnsiColor.RED}hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh:
+${AnsiColor.RED}hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhs.
+${AnsiColor.RED}hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhs-
+${AnsiColor.RED}hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhys+:`
+
+${AnsiColor.BRIGHT_BLUE}:: 🤓 :: Running Spring Boot ${spring-boot.version} ::

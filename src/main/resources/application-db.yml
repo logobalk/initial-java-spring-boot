@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    url: jdbc:sqlserver://10.1.198.23;databaseName=MDW_BPI_DEV_DB
+    username: bpidb
+    password: p@$$w0rd
+    driverClassName: com.microsoft.sqlserver.jdbc.SQLServerDriver
+  jpa:
+    # for debugging
+    show-sql: true

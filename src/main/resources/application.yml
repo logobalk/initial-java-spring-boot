@@ -1,0 +1,24 @@
+spring:
+  autoconfigure:
+    exclude:
+      #      - org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration
+      #      - org.springframework.boot.autoconfigure.jdbc.DataSourceTransactionManagerAutoConfiguration
+      #      - org.springframework.boot.autoconfigure.orm.jpa.HibernateJpaAutoConfiguration
+      - org.springframework.boot.autoconfigure.jmx.JmxAutoConfiguration
+      - org.springframework.boot.autoconfigure.security.servlet.SecurityAutoConfiguration
+      - org.keycloak.adapters.springboot.KeycloakAutoConfiguration
+  jackson:
+    date-format: yyyy-MM-dd
+    serialization:
+      write_dates_as_timestamps: false
+  jmx:
+    enabled: false
+  main:
+    allow-bean-definition-overriding: true
+    banner-mode: LOG
+  profiles:
+    active: dev
+server:
+  port: ${PORT:8080}
+  servlet:
+    context-path: /

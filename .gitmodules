@@ -1,0 +1,6 @@
+[submodule "siam-security"]
+	path = siam-security
+	url = git@10.1.99.41:development/utilities/siam-security.git
+[submodule "frontend"]
+	path = frontend
+	url = git@10.1.99.41:development/sampling-and-dispensing/sampling-dispensing-frontend.git

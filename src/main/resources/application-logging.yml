@@ -1,0 +1,11 @@
+logging:
+  level:
+    ROOT: INFO
+    org.springframework.web: DEBUG
+    com.siampharm: DEBUG
+    org.hibernate.SQL: ERROR
+    org.hibernate.type.descriptor.sql: ERROR
+    org.hibernate.type.descriptor.sql.BasicBinder: ERROR
+    org.keycloak: DEBUG
+  pattern:
+    console: '%d{"yyyy/MM/dd HH:mm:ss,SSS"} [%p] [%t] %M\(%F:%L\) - %msg%n'
